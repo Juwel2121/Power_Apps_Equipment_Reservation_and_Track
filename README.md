@@ -38,11 +38,11 @@ This system helps organizations manage their equipment inventory by providing:
 ---
 
 ## 📸 Screenshots
-### 🔹 Current Used Device
-![Current Used Device](Current%20Used%20Device.png)
-
 ### 🔹 Profile
 ![Profile](profile.png)
+
+### 🔹 Current Used Device
+![Current Used Device](Current%20Used%20Device.png)
 
 ### 🔹 Request for Items
 ![Request for Items](request%20for%20items.png)
