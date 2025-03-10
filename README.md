@@ -1,6 +1,6 @@
 # 🛠️ Power Apps Equipment Reservation and Tracking
 
-A complete solution designed to streamline **equipment reservation**, **tracking**, and **management** using **Power Apps**, **Power Automate**, and **Django**.
+A complete solution designed to streamline **equipment reservation**, **tracking**, and **management** using **Power Apps**, **Power Automate**.
 
 ---
 
@@ -39,22 +39,23 @@ This system helps organizations manage their equipment inventory by providing:
 
 ## 📸 Screenshots
 ### 🔹 Current Used Device
-![Current Used Device](images/current_used_device.png)
+![Current Used Device](Current%20Used%20Device.png)
 
 ### 🔹 Profile
-![Profile](images/profile.png)
+![Profile](profile.png)
 
 ### 🔹 Request for Items
-![Request for Items](images/request_for_items.png)
+![Request for Items](request%20for%20items.png)
 
 ### 🔹 Stock List
-![Stock List](images/stock_list.png)
+![Stock List](Stock%20list.png)
 
 ### 🔹 User Requests
-![User Requests](images/user_requests.png)
+![User Requests](USER%20REQUESTS.png)
 
 ### 🔹 View Request
-![View Request](images/view_request.png)
+![View Request](view%20request.png)
+
 
 ---
 
